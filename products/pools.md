@@ -1,4 +1,4 @@
-# Pools
+# 🍭 Pools
 
 ### Stake in the CandySwap Pools&#x20;
 

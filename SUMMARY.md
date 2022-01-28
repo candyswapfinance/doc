@@ -4,11 +4,11 @@
 
 ## Products
 
-* [Exchange](products/exchange.md)
-* [Farms](products/farms.md)
-* [Pools](products/pools.md)
-* [Bridge](products/bridge.md)
-* [Trading Mining](products/trading-mining.md)
+* [💱 Exchange](products/exchange.md)
+* [👨🌾 Farms](products/farms.md)
+* [🍭 Pools](products/pools.md)
+* [⚖ Bridge](products/bridge.md)
+* [💹 Trading Mining](products/trading-mining.md)
 
 ## Economics
 

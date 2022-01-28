@@ -1,4 +1,4 @@
-# Bridge
+# ⚖ Bridge
 
 Official Seele Bridge Ethereum Decentralized bridge ft. Gravity Protocol in December/January
 
