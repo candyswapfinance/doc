@@ -6,4 +6,4 @@ Stake CSF in the candyswap pool,earn more CSF token.
 
 &#x20;
 
-![](../.gitbook/assets/pools.jpg)
+![](../.gitbook/assets/Pools.jpg)

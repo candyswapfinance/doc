@@ -1,4 +1,4 @@
-# Farms
+# 👨🌾 Farms
 
 {% hint style="info" %}
 
@@ -12,6 +12,8 @@ You may find jaw-dropping rewards never achievable in traditional centralized yi
 * Seele-USDT
 * SNP-USDT
 * CSF-USDT
+
+
 {% endhint %}
 
-![](../.gitbook/assets/Farms.png)
+![](../.gitbook/assets/Farms.jpg)
