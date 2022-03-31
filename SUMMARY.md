@@ -17,6 +17,7 @@
 
 ## Extras
 
+* [Contracts](extras/contracts.md)
 * [Features](extras/features.md)
 * [What is an AMM Protocol?](extras/what-is-an-amm-protocol.md)
 * [What is Impermanent Loss?](extras/what-is-impermanent-loss.md)
